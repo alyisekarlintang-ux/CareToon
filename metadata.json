@@ -1,0 +1,8 @@
+{
+  "name": "Care-Toon — Friendly Puskesmas Guide",
+  "description": "Interactive cartoon-style patient guide explaining Indonesian public health center (Puskesmas) administration flow, JKN registration, K3 safety guidelines, and educational videos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
